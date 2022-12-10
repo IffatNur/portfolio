@@ -1,0 +1,6 @@
+.bg-image{
+    background-image: url('../assets/bg.jpg');
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
