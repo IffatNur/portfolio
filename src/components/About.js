@@ -2,8 +2,13 @@ import React from 'react';
 
 const About = () => {
     return (
-      <div className="grid grid-cols-1 lg:grid-cols-2 px-20 py-32">
-        <div></div>
+      <div id="about" className="grid grid-cols-1 lg:grid-cols-2 px-20 py-32">
+        <div>
+          <img
+            src="https://img.freepik.com/free-vector/reading-book-illustration_114360-8534.jpg?w=2000"
+            alt="" className='h-96 mx-auto'
+          />
+        </div>
         <div>
           <h1 className="font-bold text-5xl my-5">
             I am Frontend Web Developer

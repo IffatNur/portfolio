@@ -1,0 +1,36 @@
+[{
+  "id": "1",
+  "title": "Tech Village",
+  "img1": "../src/assets/tech_village.PNG",
+  "img2": "../src/assets/tech_viillage2.PNG",
+  "img3": "../src/assets/tech_village3.PNG",
+  "short_details": "This project is based on product resale. It has three user roles- Admin, Buyer and Seller. Different dashboard view for different user. Buyers can purchase products by stripe payment gateway.",
+  "details": "Ann",
+  "live_site": "https://tech-village-7602d.web.app/",
+  "client": "https://github.com/IffatNur/tech-village-client",
+  "server": "https://github.com/IffatNur/tech-village-server"
+},
+{
+  "id": "2",
+  "title": "Aero Visa Consultant",
+  "img1": "../src/assets/aero.PNG",
+  "img2": "../src/assets/aero2.PNG",
+  "img3": "../src/assets/aero3.PNG",
+  "short_details": "This project is based on visa and immigration consultant. User can add new services to it. User can leave review for a particular service.",
+  "details": "Kelby",
+  "live_site": "https://aero-visa-client.web.app/",
+  "client": "https://github.com/IffatNur/aero-visa-client",
+  "server": "https://github.com/IffatNur/aero-visa-server"
+},
+{
+  "id": "3",
+  "title": "Edu Tech",
+  "img1": "../src/assets/edu.PNG",
+  "img2": "../src/assets/edu2.PNG",
+  "img3": "../src/assets/edu3.PNG",
+  "short_details": "This project is based on IT courses. Sign in and registration authentication has been implemented. Only valid user can take premium access of courses. JWT has been implemented for authentication.",
+  "details": "Sayre",
+  "live_site": "https://edutech-client.web.app/",
+  "client": "https://github.com/IffatNur/eduTech-client-main",
+  "server": "https://github.com/IffatNur/eduTech-server-main"
+}]

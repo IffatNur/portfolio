@@ -29,7 +29,7 @@ const Contact = () => {
     );
   }
     return (
-      <div className="mt-32 contact-bg py-10 ">
+      <div id="contact" className="mt-32 contact-bg py-10 ">
         <h1 className="text-center my-10 text-5xl font-bold text-white">
           Contact
         </h1>
